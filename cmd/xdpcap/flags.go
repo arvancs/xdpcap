@@ -9,7 +9,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/cloudflare/xdpcap/internal"
+	"github.com/arvancs/xdpcap/internal"
 
 	"github.com/google/gopacket/layers"
 	"github.com/pkg/errors"

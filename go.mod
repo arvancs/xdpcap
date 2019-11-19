@@ -1,4 +1,4 @@
-module github.com/cloudflare/xdpcap
+module github.com/arvancs/xdpcap
 
 require (
 	github.com/cilium/ebpf v0.0.0-20191113100448-d9fb101ca1fb

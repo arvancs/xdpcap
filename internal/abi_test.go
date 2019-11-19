@@ -1,8 +1,8 @@
 package internal
 
 import (
+	"github.com/arvancs/xdpcap"
 	"github.com/cilium/ebpf"
-	"github.com/cloudflare/xdpcap"
 	"testing"
 )
 

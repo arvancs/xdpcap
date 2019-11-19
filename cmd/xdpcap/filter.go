@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/cloudflare/xdpcap/internal"
+	"github.com/arvancs/xdpcap/internal"
 
 	"github.com/cilium/ebpf"
 	"github.com/cilium/ebpf/perf"

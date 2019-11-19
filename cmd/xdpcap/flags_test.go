@@ -8,7 +8,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/cloudflare/xdpcap/internal"
+	"github.com/arvancs/xdpcap/internal"
 
 	"github.com/google/gopacket/layers"
 	"golang.org/x/net/bpf"

@@ -5,7 +5,7 @@ import (
 	"os"
 	"testing"
 
-	"github.com/cloudflare/xdpcap"
+	"github.com/arvancs/xdpcap"
 
 	"github.com/cilium/ebpf"
 	"golang.org/x/net/bpf"
